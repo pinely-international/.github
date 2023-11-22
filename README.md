@@ -1,2 +1,4 @@
-# .github
-🔍 Discover Pinely International's innovative solutions for startups and SaaS. Explore our services, successes, and how we can elevate your tech venture. Let's create something impactful together! 🌐✨
+# 🚀 Welcome to Pinely International
+
+## 🌟 Our Mission
+At Pinely International, we're committed to empowering startups and SaaS companies worldwide with cutting-edge software solutions. We aim to bridge the gap between vision and reality, transforming ideas into digital excellence.
