@@ -28,9 +28,9 @@ Have an idea brewing? Why wait? [Let’s talk](https://calendly.com/pinely-inter
 - Agile, adaptable, and straightforward.
 - Simplicity wins. Complexity kills.
 
-## Join Us on Social Media:  
+## 🌐 Join Us on Social Media:  
 Stay connected with our journey and discover what others are saying about us on [Clutch](https://clutch.co/profile/pinely-international) and  [LinkedIn](https://www.linkedin.com/company/pinely-international/).
 
-## Pinely: Simple Tech Solutions for Big Ideas  
+## 🦾 Pinely: Simple Tech Solutions for Big Ideas  
 Is it time to realize your idea? [Get in touch](https://calendly.com/pinely-international/mark-kovalenko).
 
