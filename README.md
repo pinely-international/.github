@@ -1,4 +1,4 @@
-# 🚀 Welcome to Pinely International
+# Purpose
 
-## 🌟 Our Mission
-At Pinely International, we're committed to empowering startups and SaaS companies worldwide with cutting-edge software solutions. We aim to bridge the gap between vision and reality, transforming ideas into digital excellence.
+## Repository  
+Current repository handles readme for the GitHub organisation Pinely International
